@@ -42,7 +42,8 @@ const Button:React.FC<ButtonProps> = ({
     ${small ? 'border-[1px]' : 'border-2'}
     `}>
       {Icon && (
-        <Icon  className='absolute flex-row items-center gap-4 w-full'/>
+        <Icon  size={24} className='absolute left-4 top-3' />
+        //className='absolute flex-row items-center gap-4 w-full'
       )}
         {label}
     </button>
