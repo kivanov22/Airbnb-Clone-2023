@@ -49,7 +49,7 @@ export default async function getListings(
             query.locationValue = locationValue;
         }
 
-        if(startDate || endDate){
+        if(startDate && endDate){
             query.NOT = {
                 reservations:{
                     some:{
