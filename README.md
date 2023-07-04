@@ -15,9 +15,16 @@
 
 Demo here -> Soon.
 
+Testing Accounts:
 
+Username:test@gmail.com
+Password:test123
+
+Username:test2@gmail.com  
+Password:test456
 ## Project Screenshots
 
+<!-- ![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/orders-page.png) -->
 
 ## Key Features
 - Create Listing.
