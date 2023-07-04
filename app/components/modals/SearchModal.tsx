@@ -77,7 +77,7 @@ const SearchModal = () => {
     }
 
     if (dateRange.endDate) {
-      updatedQuery.startDate = formatISO(dateRange.endDate);
+      updatedQuery.endDate = formatISO(dateRange.endDate);
     }
 
     const url = qs.stringifyUrl(
@@ -141,7 +141,7 @@ const SearchModal = () => {
 
   if(step === STEPS.INFO){
     bodyContent = (
-      <div className="">
+      <div className="flex flex-col gap-8">
         <Heading 
         title="More information"
         subtitle="Find your perfect place!"
@@ -152,12 +152,14 @@ const SearchModal = () => {
         value={guestCount}
         onChange={(value)=>setGuestCount(value)}
         />
+        <hr />
          <Counter 
         title="Rooms"
         subtitle="How many rooms do you need?"
         value={roomCount}
         onChange={(value)=>setRoomCount(value)}
         />
+        <hr />
          <Counter 
         title="Bathrooms"
         subtitle="How many bathrooms do you need?"
