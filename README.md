@@ -24,8 +24,30 @@ Username:test2@gmail.com
 Password:test456
 ## Project Screenshots
 
-<!-- ![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/orders-page.png) -->
+Here is some project screenshots...
 
+- Homepage
+
+![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/homepage.png)
+![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/homepage2.png)
+
+---
+- Login page
+![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/loginpage.png)
+
+---
+
+- Details page
+![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/details1.png)
+![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/details2.png)
+
+---
+
+- Category homepage
+
+![](https://github.com/kivanov22/Airbnb-Clone-2023/blob/main/project-photos/category.png)
+
+---
 ## Key Features
 - Create Listing.
 - Reserve Listing.
