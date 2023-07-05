@@ -13,7 +13,7 @@
 
 ## Demo
 
-Demo here -> Soon.
+Demo here -> https://renting-app-2023.vercel.app/
 
 Testing Accounts:
 
